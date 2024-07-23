@@ -3,13 +3,16 @@
   <channel id="The History Channel">
     <display-name lang="pt">The History Channel</display-name>
     <url>http://www.clarotv.com.br.EK</url>
+  <channel id="AMC 4K">
+    <display-name lang="pt">AMC 4K</display-name>
+    <url>https://www.canalae.com.br/</url>
+    <channel update="i" site="lineup.net.br" site_id="96" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="lineup.net.br" site_id="1932" xmltv_id="100% Vida">100% Vida</channel>
     <channel update="i" site="lineup.net.br" site_id="2143" xmltv_id="3ª Via TV">3ª Via TV</channel>
     <channel update="i" site="lineup.net.br" site_id="119" xmltv_id="A&amp;E">A&amp;E</channel>
     <channel update="i" site="lineup.net.br" site_id="133" xmltv_id="Agro Canal">Agro Canal</channel>
     <channel update="i" site="lineup.net.br" site_id="448" xmltv_id="AgroBrasil TV">AgroBrasil TV</channel>
     <channel update="i" site="lineup.net.br" site_id="447" xmltv_id="AmazonSat">AmazonSat</channel>
-    <channel update="i" site="lineup.net.br" site_id="96" xmltv_id="AMC">AMC</channel>
     <channel update="i" site="lineup.net.br" site_id="13" xmltv_id="Animal Planet">Animal Planet</channel>
     <channel update="i" site="lineup.net.br" site_id="231" xmltv_id="Art Latino">Art Latino</channel>
     <channel update="i" site="lineup.net.br" site_id="88" xmltv_id="Arte 1">Arte 1</channel>
